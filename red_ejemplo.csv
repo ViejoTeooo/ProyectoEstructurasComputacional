@@ -1,0 +1,16 @@
+origen,destino,peso
+Girardot_Centro,Flandes_Puente,8
+Girardot_Centro,Ricaurte_Entrada,12
+Girardot_Centro,Girardot_Norte,6
+Flandes_Puente,Flandes_Centro,7
+Flandes_Centro,Ricaurte_Entrada,10
+Ricaurte_Entrada,Ricaurte_Centro,5
+Ricaurte_Centro,AguaDeDios_Entrada,18
+Girardot_Norte,Girardot_Sur,9
+Girardot_Sur,Ricaurte_Entrada,11
+Flandes_Centro,Girardot_Centro,13
+Ricaurte_Entrada,Girardot_Centro,14
+AguaDeDios_Entrada,AguaDeDios_Centro,9
+AguaDeDios_Centro,Ricaurte_Centro,22
+Girardot_Sur,Flandes_Puente,15
+Flandes_Puente,Girardot_Centro,10
